@@ -1,5 +1,3 @@
-# JCA_Survey_Project
-Practice project exploring survey analytics and data visualization for nonprofits
 # JCA Survey Analytics Project
 
 This project was created to explore how nonprofits can use survey analytics to drive decisions around pricing, program design, and member satisfaction.
