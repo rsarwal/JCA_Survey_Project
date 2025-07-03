@@ -24,6 +24,10 @@ This project was created to explore how nonprofits can use survey analytics to d
 - Excel
 - GitHub
 
+--
+
+Instead of showing the traditional cumulative Van Westendorp plot, I summarized the key outputs as scorecards — which nonprofit decision-makers can understand more quickly. I also added a gauge to visually highlight the price sensitivity range. This lets clients know the psychological pricing boundaries, helping them avoid undervaluing or overpricing their offerings.
+
 ---
 
 ## 🙋‍♀️ Why I Made This
