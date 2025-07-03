@@ -17,7 +17,7 @@ Instead of showing the traditional cumulative Van Westendorp plot, I summarized 
   - Ratings for membership features (guest pass, priority seating, etc.)
 - **Satisfaction Analysis**
   - Trends across age groups and membership status
-- !**[Power BI Dashboard Screenshot]**(dashboard/SurveyInsights.pdf)
+- ![**Power BI Dashboard Screenshot**](dashboard/SurveyInsights.pdf)
   - Visual summaries for nonprofit leadership
 
 ---
